@@ -34,7 +34,7 @@ Source: Public dataset used for customer segmentation practice (add source link 
 
 | File Name                  | Description                                      |
 |----------------------------|------------------------------------------------|
-| `Mall_Customers.csv`       | Original raw dataset                            |  
+| `Mall_Customers.csv`       |https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?resource=download                          |  
 | `Mall_Customers_Cleaned.csv` | Final cleaned dataset, ready for analysis       |  
 | `clean_mall_data.py`       | Python script used for data cleaning and preprocessing |
 
