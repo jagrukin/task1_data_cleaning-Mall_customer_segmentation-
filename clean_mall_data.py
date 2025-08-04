@@ -42,10 +42,4 @@ if df['age'].dtype != 'int':
 df.to_csv('Mall_Customers_Cleaned.csv', index=False)
 print("\n✅ Data cleaning complete. File saved as 'Mall_Customers_Cleaned.csv'.")
 
-# ----- Optional: Summary of actions -----
-print("\nSummary:")
-print("- Missing values handled")
-print("- Duplicates removed")
-print("- Gender values standardized")
-print("- Column names cleaned")
-print("- Data types corrected")
+
